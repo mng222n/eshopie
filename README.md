@@ -1,11 +1,11 @@
 eShopie (for java 1.8 +)
 -------------------
 
-[![last_version](https://img.shields.io/badge/last_version-v2.17.0-blue.svg?style=flat)](https://github.com/eShopie-ecommerce/eShopie/tree/2.17.0)
+[![last_version](https://img.shields.io/badge/last_version-v1.0.1-blue.svg?style=flat)](https://github.com/mng335n/eShopie/tree/1.0.1)
 [![Official site](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=official%20site)](http://www.eShopie.com/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/eShopieecomm/eShopie.svg)](https://hub.docker.com/r/eShopieecomm/eShopie)
-[![stackoverflow](https://img.shields.io/badge/eShopie-stackoverflow-orange.svg?style=flat)](http://stackoverflow.com/questions/tagged/eShopie)
-[![CircleCI](https://circleci.com/gh/eShopie-ecommerce/eShopie.svg?style=svg)](https://circleci.com/gh/eShopie-ecommerce/eShopie)
+[![Docker Pulls](https://img.shields.io/docker/pulls/eShopieecomm/eShopie.svg)](https://hub.docker.com/r/mng335n/eShopie)
+[![stackoverflow](https://img.shields.io/badge/eShopie-stackoverflow-orange.svg?style=flat)](http://stackoverflow.com/questions/tagged/mng335n)
+[![CircleCI](https://circleci.com/gh/eShopie-ecommerce/eShopie.svg?style=svg)](https://circleci.com/gh/mng335n/eShopie)
 
 
 Java open source e-commerce software
@@ -31,11 +31,11 @@ Get the code:
 -------------------
 Clone the repository:
      
-	 $ git clone git://github.com/eShopie-ecommerce/eShopie.git
+	 $ git clone git://github.com/mng335n/eShopie.git
 
 If this is your first time using Github, review http://help.github.com to learn the basics.
 
-You can also download the zip file containing the code from https://github.com/eShopie-ecommerce/eShopie 
+You can also download the zip file containing the code from https://github.com/mng335n/eShopie 
 
 To build the application:
 -------------------	
@@ -101,22 +101,5 @@ password : password
 
 The instructions above will let you run the application with default settings and configurations.
 Please read the instructions on how to connect to MySQL, configure an email server and configure other subsystems
-
-
-### Documentation:
--------------------
-
-Documentation available <http://documentation.eShopie.com>
-
-ChatOps <https://eShopie.slack.com>  - Join our Slack channel https://eShopie-slackin.herokuapp.com/
-
-More information is available on eShopie web site here <http://www.eShopie.com>
-
-### Participation:
--------------------
-
-If you have interest in giving feedback or for participating to eShopie project in any way
-Feel to use the contact form <http://www.eShopie.com/contact.html> and share your email address
-so we can send an invite to our Slack channel
 
 
